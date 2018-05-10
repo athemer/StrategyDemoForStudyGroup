@@ -112,10 +112,10 @@
             </objects>
             <point key="canvasLocation" x="436" y="499.70014992503752"/>
         </scene>
-        <!--Better Check Out Detail View Controller-->
+        <!--Functional Checkout Detail View Controller-->
         <scene sceneID="nhw-fK-1mx">
             <objects>
-                <viewController id="wSc-Ok-4xy" customClass="BetterCheckOutDetailViewController" customModule="StrategyDemoForStudyGroup" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="wSc-Ok-4xy" customClass="FunctionalCheckoutDetailViewController" customModule="StrategyDemoForStudyGroup" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="TJ2-2z-2mK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

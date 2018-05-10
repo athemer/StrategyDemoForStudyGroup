@@ -15,6 +15,7 @@ class FunctionalCheckoutDetailViewController: UIViewController {
     var finalPrice: Int = 0 {
         didSet {
             print (" @@@@@ ", finalPrice)
+            finalPriceLabel.text = "Total Price is \(finalPrice)"
         }
     }
     
